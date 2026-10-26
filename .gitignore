@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Local settings — may contain real API keys, never commit
+.claude/settings.local.json
+
+# Generated marketing outputs (brand.md, research, assets...)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
